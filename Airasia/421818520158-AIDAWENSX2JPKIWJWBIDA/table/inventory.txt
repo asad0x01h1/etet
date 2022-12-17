@@ -1,0 +1,28 @@
+╭────────────────────────────────╮
+│         Resource Type          │
+├────────────────────────────────┤
+│ Total                          │
+│ APIGateway RestAPIs            │
+│ APIGatewayv2 APIs              │
+│ AppRunner Services             │
+│ CloudFormation Stacks          │
+│ Cloudfront Distributions       │
+│ DynamoDB Tables                │
+│ EC2 Instances                  │
+│ ECS Tasks                      │
+│ EKS Clusters                   │
+│ ELB Load Balancers             │
+│ ELBv2 Load Balancers           │
+│ Glue Dev Endpoints             │
+│ Glue Jobs                      │
+│ Grafana Workspaces             │
+│ Lambda Functions               │
+│ Lightsail Instances/Containers │
+│ MQ Brokers                     │
+│ OpenSearch DomainNames         │
+│ RDS DB Instances               │
+│ SecretsManager Secrets         │
+│ SNS Topics                     │
+│ SQS Queues                     │
+│ SSM Parameters                 │
+╰────────────────────────────────╯
